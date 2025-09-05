@@ -61,6 +61,7 @@ Minha facilidade de comunicação e adaptação me permite aprender rapidamente 
   <img src="https://github-readme-stats.vercel.app/api?username=annetavares&show_icons=true&theme=tokyonight" alt="Anne's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annetavares&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
 </p>
+<img width="12" />
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
