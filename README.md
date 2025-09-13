@@ -3,12 +3,7 @@
 </div>
 
 ###
-<div align="center">
-  <a href = "mailto:mirahonoratto@gmail.com"><img src="https://i.postimg.cc/59mKYzZS/gmail.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miranda-honorato/" target="_blank"><img src="https://i.postimg.cc/FRG9BRB5/linkedin.png" target="_blank"></a> 
-  <a href="https://instagram.com/miaumico" target="_blank"><img src="https://i.postimg.cc/MGGL0mQS/INSTAGRAM.png" target="_blank"></a>
-  
-</div>
+
 
 ###
 
@@ -18,7 +13,7 @@
 
 ###
 
-<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dina&pause=1000&color=FFA2E1&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Miranda+%3A)" alt="Typing SVG" /></a></h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dina&pause=1000&color=FFA2E1&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Anne+%3A)" alt="Typing SVG" /></a></h1>
 
 ###
 
