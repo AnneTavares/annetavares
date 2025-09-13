@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✿ Desenvolvedora Full Stack apaixonada por tecnologia e inovação. Tenho experiência com **JavaScript** e **Java**, além de conhecimento em **Cloud Computing**.  
+<p align="left">✿ Desenvolvedora Full Stack apaixonada por tecnologia e inovação. Tenho experiência com **JavaScript** e **Java**, além de conhecimento em Cloud Computing.  
 Sou uma pessoa que busca sempre se aprimorar, aprendendo novas ferramentas e explorando formas de aplicar a tecnologia em soluções criativas e eficientes.  
 
 Minha facilidade de comunicação e adaptação me permite aprender rapidamente e colaborar em projetos que geram impacto positivo.  
